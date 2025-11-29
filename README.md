@@ -1,4 +1,11 @@
-# mini-exercise-5
+# Week 5 Threads Mini-Exercise
+
+This repository contains my proof of Week 5 Threads Exercise and readme comments about parts.
+
+**GitHub Repository**  
+[(https://github.com/ori23s/mini-exercise-5)]
+
+
 
 ## Part 3:
 The java code creates 2 threads, each one takes calls a function that increments a general value 10,000 times. The threads are then started. 
